@@ -1,0 +1,11 @@
+.DS_Store
+*.asl*
+.venv
+.idea
+*.pyc
+package-lock.json
+*pytest*
+*cache*
+*env*
+*.history
+**/.idea/**
